@@ -13,7 +13,7 @@ I usually develop using Python 🐍 and JavaScript 💛.
 
 📩 Contact:
 * email
-  * dahyun31x@kakao.com
+  * dahyun31x@gmail.com
 * twitter
   * [@doomydoomydooms](https://twitter.com/doomydoomydooms)
 * blog
