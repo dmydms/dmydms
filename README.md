@@ -3,7 +3,7 @@ Hi, there :) I'm Product Developer.
 I usually develop using Python 🐍 and JavaScript 💛.
 
 
-✨ Favorites:
+✨ Favorites
 * Coding 👩🏻‍💻
 * Classic music 🎵
 * Singing 🎤
@@ -11,11 +11,6 @@ I usually develop using Python 🐍 and JavaScript 💛.
 * Alcohol 🥂
 * Cat and Dog 🐱 🐶
 
-📩 Contact:
-* email
-  * dahyun31x@gmail.com
-* twitter
-  * [@doomydoomydooms](https://twitter.com/doomydoomydooms)
-* blog
-  * [Medium](https://medium.com/@doomydoomydooms)
-  * [Study, dahyun's study blog](https://nextjs-docs-six-pi.vercel.app/)
+✨ Blog
+* [Medium](https://medium.com/@doomydoomydooms)
+* [Study, dahyun's study blog](https://nextjs-docs-six-pi.vercel.app/)
